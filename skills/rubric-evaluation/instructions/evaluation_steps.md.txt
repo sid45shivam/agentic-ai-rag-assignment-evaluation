@@ -1,0 +1,9 @@
+# Evaluation Steps
+
+1. Read the criterion.
+2. Identify evidence in the student's answer.
+3. Compare evidence with the rubric.
+4. Determine performance level.
+5. Propose marks.
+6. Explain the score.
+7. Flag ambiguity or alternative approaches.
